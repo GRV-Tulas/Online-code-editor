@@ -1,7 +1,5 @@
 # Online_code_editor_js
 
-Now this project is live at- https://main--dulcet-kleicha-e97ecc.netlify.app/
-
 # Project Information
 
 This project uses a total of 25 CSS properties, 19 HTML tags, and 13 JavaScript functions.
